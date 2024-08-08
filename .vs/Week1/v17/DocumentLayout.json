@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Week1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\migrations\\20240808150049_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\migrations\\20240808150049_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Week1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\repos\\Week1\\Week1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Week1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T16:54:13.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Week1\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\repos\\Week1\\Week1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Week1\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T16:47:19.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Week1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\repos\\Week1\\Week1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Week1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:11:01.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Week1\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\repos\\Week1\\Week1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Week1\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T15:13:46.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Week1\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\repos\\Week1\\Week1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Week1\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwCEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T15:13:22.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Week1\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\repos\\Week1\\Week1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Week1\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAIAwwFUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:10:36.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\ViewModel\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Week1\\ViewModel\\RegisterVM.cs",
+              "ToolTip": "D:\\repos\\Week1\\Week1\\ViewModel\\RegisterVM.cs",
+              "RelativeToolTip": "Week1\\ViewModel\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:02:39.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Week1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\repos\\Week1\\Week1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Week1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T16:17:52.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\ViewModel\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Week1\\ViewModel\\LoginVM.cs",
+              "ToolTip": "D:\\repos\\Week1\\Week1\\ViewModel\\LoginVM.cs",
+              "RelativeToolTip": "Week1\\ViewModel\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:02:13.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240808150049_Initial.cs",
+              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Migrations\\20240808150049_Initial.cs",
+              "RelativeDocumentMoniker": "Week1\\Migrations\\20240808150049_Initial.cs",
+              "ToolTip": "D:\\repos\\Week1\\Week1\\Migrations\\20240808150049_Initial.cs",
+              "RelativeToolTip": "Week1\\Migrations\\20240808150049_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:00:49.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Program.cs",
+              "RelativeDocumentMoniker": "Week1\\Program.cs",
+              "ToolTip": "D:\\repos\\Week1\\Week1\\Program.cs",
+              "RelativeToolTip": "Week1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:52:45.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\appsettings.json",
+              "RelativeDocumentMoniker": "Week1\\appsettings.json",
+              "ToolTip": "D:\\repos\\Week1\\Week1\\appsettings.json",
+              "RelativeToolTip": "Week1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T14:35:46.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Week1\\Models\\AppUser.cs",
+              "ToolTip": "D:\\repos\\Week1\\Week1\\Models\\AppUser.cs",
+              "RelativeToolTip": "Week1\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:33:00.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Week1\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\repos\\Week1\\Week1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Week1\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:30:51.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
