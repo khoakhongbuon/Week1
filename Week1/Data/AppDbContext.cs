@@ -9,5 +9,6 @@ namespace Week1.Data
         {
 
         }
+        public DbSet<ToDoItem> ToDoItems { get; set; }
     }
 }

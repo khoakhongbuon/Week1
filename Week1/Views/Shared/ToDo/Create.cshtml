@@ -1,0 +1,14 @@
+﻿@model Week1.ViewModel.ToDoItemVM
+
+@{
+    ViewData["Title"] = "Create ToDo Item";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    @await Html.PartialAsync("_ToDoForm", Model)
+    <button type="submit" class="btn btn-primary">Create</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

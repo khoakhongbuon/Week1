@@ -140,3 +140,4 @@ D:\repos\Week1\Week1\obj\Debug\net8.0\refint\Week1.dll
 D:\repos\Week1\Week1\obj\Debug\net8.0\Week1.pdb
 D:\repos\Week1\Week1\obj\Debug\net8.0\Week1.genruntimeconfig.cache
 D:\repos\Week1\Week1\obj\Debug\net8.0\ref\Week1.dll
+D:\repos\Week1\Week1\obj\Debug\net8.0\Week1.sourcelink.json
