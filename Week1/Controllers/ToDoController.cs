@@ -25,7 +25,8 @@ namespace Week1.Controllers
         {
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
             var items = await _repository.GetAllAsync(userId);
-            return View(items);
+            return View("Index", items);
+
         }
 
         // GET: /ToDo/Create
