@@ -21,12 +21,12 @@ namespace Week1.Controllers
         }
 
         // GET: /ToDo
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
-            var items = await _repository.GetAllAsync(userId);
-            return View("Index", items);
-
+            var items = await _repository.GetAllAsync(userId, searchString);
+            ViewData["CurrentFilter"] = searchString;
+            return View(items);
         }
 
         // GET: /ToDo/Create

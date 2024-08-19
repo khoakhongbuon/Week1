@@ -1,10 +1,11 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using Week1.Data;
 using Week1.Models;
-using Week1.Repositories;
 
-namespace Week1.Data
+namespace Week1.Repositories
 {
     public class ToDoRepository : IToDoRepository
     {
@@ -15,22 +16,28 @@ namespace Week1.Data
             _context = context;
         }
 
-        public async Task<IEnumerable<ToDoItem>> GetAllAsync(string userId)
+        public async Task<IEnumerable<ToDoItem>> GetAllAsync(string userId, string searchTerm = "")
         {
-            return await _context.ToDoItems
-                .Where(item => item.UserId == userId)
-                .ToListAsync();
+            var query = _context.ToDoItems.Where(t => t.UserId == userId);
+
+            if (!string.IsNullOrEmpty(searchTerm))
+            {
+                query = query.Where(t => t.Title.Contains(searchTerm) || t.Description.Contains(searchTerm));
+            }
+
+            return await query.ToListAsync();
         }
 
         public async Task<ToDoItem?> GetByIdAsync(int id, string userId)
         {
             return await _context.ToDoItems
-                .FirstOrDefaultAsync(item => item.Id == id && item.UserId == userId);
+                .Where(t => t.Id == id && t.UserId == userId)
+                .FirstOrDefaultAsync();
         }
 
         public async Task AddAsync(ToDoItem item)
         {
-            await _context.ToDoItems.AddAsync(item);
+            _context.ToDoItems.Add(item);
             await _context.SaveChangesAsync();
         }
 
@@ -42,8 +49,7 @@ namespace Week1.Data
 
         public async Task DeleteAsync(int id, string userId)
         {
-            var item = await _context.ToDoItems
-                .FirstOrDefaultAsync(t => t.Id == id && t.UserId == userId);
+            var item = await GetByIdAsync(id, userId);
             if (item != null)
             {
                 _context.ToDoItems.Remove(item);

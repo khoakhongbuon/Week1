@@ -6,7 +6,7 @@ namespace Week1.Repositories
 {
     public interface IToDoRepository
     {
-        Task<IEnumerable<ToDoItem>> GetAllAsync(string userId);
+        Task<IEnumerable<ToDoItem>> GetAllAsync(string userId, string searchTerm = "");
         Task<ToDoItem?> GetByIdAsync(int id, string userId);
         Task AddAsync(ToDoItem item);
         Task UpdateAsync(ToDoItem item);
