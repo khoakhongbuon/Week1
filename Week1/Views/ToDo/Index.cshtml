@@ -2,7 +2,7 @@
 
 @{
     ViewData["Title"] = "To-Do List";
-    var searchTerm = ViewData["CurrentFilter"] as string ?? string.Empty; // Get search term from ViewData
+    var searchTerm = ViewData["CurrentFilter"] as string ?? string.Empty;
 }
 
 <!DOCTYPE html>
@@ -21,11 +21,12 @@
         <!-- Search Form -->
         <form method="get" asp-action="Index" class="mb-3">
             <div class="input-group">
-                <input type="text" name="searchTerm" value="@searchTerm" class="form-control" placeholder="Search..." />
+                <input type="text" name="searchString" value="@searchTerm" class="form-control" placeholder="Search..." />
                 <button type="submit" class="btn btn-primary">Search</button>
             </div>
         </form>
 
+        <!-- To-Do List Table -->
         <table class="table table-striped">
             <thead>
                 <tr>

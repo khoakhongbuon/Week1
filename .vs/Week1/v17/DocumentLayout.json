@@ -1,105 +1,104 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\repos\\Week1\\",
+  "WorkspaceRootPath": "D:\\CW1\\Week1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\views\\todo\\_todoform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\todo\\_todoform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\repos\\Week1\\Week1\\Migrations\\20240812160606_Todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Week1\\Migrations\\20240812160606_Todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\viewmodel\\todoitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\views\\todo\\_todoform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\todo\\_todoform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\repos\\Week1\\Week1\\Migrations\\20240812160606_Todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\viewmodel\\todoitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\viewmodel\\todoitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\repos\\week1\\week1\\migrations\\20240812165948_todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|d:\\cw1\\week1\\week1\\migrations\\20240812165948_todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC778EE9-A357-4FC4-B816-F5A3A820C844}|Week1\\Week1.csproj|solutionrelative:week1\\migrations\\20240812165948_todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -110,87 +109,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ToDoController.cs",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Controllers\\ToDoController.cs",
-              "RelativeDocumentMoniker": "Week1\\Controllers\\ToDoController.cs",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Controllers\\ToDoController.cs",
-              "RelativeToolTip": "Week1\\Controllers\\ToDoController.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAmwHoAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "ToDoRepository.cs",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Repositories\\ToDoRepository.cs",
+              "RelativeDocumentMoniker": "Week1\\Repositories\\ToDoRepository.cs",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Repositories\\ToDoRepository.cs",
+              "RelativeToolTip": "Week1\\Repositories\\ToDoRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwDUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T16:51:09.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IToDoRepository.cs",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Repositories\\IToDoRepository.cs",
-              "RelativeDocumentMoniker": "Week1\\Repositories\\IToDoRepository.cs",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Repositories\\IToDoRepository.cs",
-              "RelativeToolTip": "Week1\\Repositories\\IToDoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T15:29:42.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Week1\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Week1\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T16:11:01.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Week1\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Week1\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T15:10:36.046Z"
+              "WhenOpened": "2024-08-12T15:31:53.092Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_ToDoForm.cshtml",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Views\\ToDo\\_ToDoForm.cshtml",
-              "RelativeDocumentMoniker": "Week1\\Views\\ToDo\\_ToDoForm.cshtml",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Views\\ToDo\\_ToDoForm.cshtml",
-              "RelativeToolTip": "Week1\\Views\\ToDo\\_ToDoForm.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-12T15:48:48.585Z"
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Models\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "Week1\\Models\\ToDoItem.cs",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Models\\ToDoItem.cs",
+              "RelativeToolTip": "Week1\\Models\\ToDoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:26:17.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Views\\ToDo\\Index.cshtml",
-              "RelativeDocumentMoniker": "Week1\\Views\\ToDo\\Index.cshtml",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Views\\ToDo\\Index.cshtml",
-              "RelativeToolTip": "Week1\\Views\\ToDo\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Title": "_ToDoForm.cshtml",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Views\\ToDo\\_ToDoForm.cshtml",
+              "RelativeDocumentMoniker": "Week1\\Views\\ToDo\\_ToDoForm.cshtml",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Views\\ToDo\\_ToDoForm.cshtml",
+              "RelativeToolTip": "Week1\\Views\\ToDo\\_ToDoForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-12T15:45:17.419Z"
+              "WhenOpened": "2024-08-12T15:48:48.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Week1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Week1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T16:54:13.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\appsettings.json",
+              "RelativeDocumentMoniker": "Week1\\appsettings.json",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\appsettings.json",
+              "RelativeToolTip": "Week1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T14:35:46.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Program.cs",
+              "RelativeDocumentMoniker": "Week1\\Program.cs",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Program.cs",
+              "RelativeToolTip": "Week1\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:52:45.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "IToDoRepository.cs",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Repositories\\IToDoRepository.cs",
+              "RelativeDocumentMoniker": "Week1\\Repositories\\IToDoRepository.cs",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Repositories\\IToDoRepository.cs",
+              "RelativeToolTip": "Week1\\Repositories\\IToDoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:29:42.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "Week1\\Controllers\\ToDoController.cs",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "Week1\\Controllers\\ToDoController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:51:09.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Views\\ToDo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Week1\\Views\\ToDo\\Index.cshtml",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Views\\ToDo\\Index.cshtml",
+              "RelativeToolTip": "Week1\\Views\\ToDo\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:45:17.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Views\\ToDo\\Delete.cshtml",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Views\\ToDo\\Delete.cshtml",
               "RelativeDocumentMoniker": "Week1\\Views\\ToDo\\Delete.cshtml",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Views\\ToDo\\Delete.cshtml",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Views\\ToDo\\Delete.cshtml",
               "RelativeToolTip": "Week1\\Views\\ToDo\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -198,11 +242,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Week1\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Week1\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:10:36.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Week1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Week1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:11:01.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Week1\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "Week1\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -210,35 +278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ToDoItem.cs",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Models\\ToDoItem.cs",
-              "RelativeDocumentMoniker": "Week1\\Models\\ToDoItem.cs",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Models\\ToDoItem.cs",
-              "RelativeToolTip": "Week1\\Models\\ToDoItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T15:26:17.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Program.cs",
-              "RelativeDocumentMoniker": "Week1\\Program.cs",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Program.cs",
-              "RelativeToolTip": "Week1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T14:52:45.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Week1\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Week1\\Views\\Account\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -246,11 +290,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "AppUser.cs",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Models\\AppUser.cs",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Week1\\Models\\AppUser.cs",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Models\\AppUser.cs",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Models\\AppUser.cs",
               "RelativeToolTip": "Week1\\Models\\AppUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,11 +302,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Week1\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Week1\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -270,11 +314,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Views\\ToDo\\Edit.cshtml",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Views\\ToDo\\Edit.cshtml",
               "RelativeDocumentMoniker": "Week1\\Views\\ToDo\\Edit.cshtml",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Views\\ToDo\\Edit.cshtml",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Views\\ToDo\\Edit.cshtml",
               "RelativeToolTip": "Week1\\Views\\ToDo\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -282,36 +326,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ToDoRepository.cs",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Repositories\\ToDoRepository.cs",
-              "RelativeDocumentMoniker": "Week1\\Repositories\\ToDoRepository.cs",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Repositories\\ToDoRepository.cs",
-              "RelativeToolTip": "Week1\\Repositories\\ToDoRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T15:31:53.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Week1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Week1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-08T16:54:13.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Views\\ToDo\\Create.cshtml",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Views\\ToDo\\Create.cshtml",
               "RelativeDocumentMoniker": "Week1\\Views\\ToDo\\Create.cshtml",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Views\\ToDo\\Create.cshtml",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Views\\ToDo\\Create.cshtml",
               "RelativeToolTip": "Week1\\Views\\ToDo\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -319,12 +338,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "20240812160606_Todo.cs",
               "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Migrations\\20240812160606_Todo.cs",
-              "RelativeDocumentMoniker": "Week1\\Migrations\\20240812160606_Todo.cs",
+              "RelativeDocumentMoniker": "..\\..\\repos\\Week1\\Week1\\Migrations\\20240812160606_Todo.cs",
               "ToolTip": "D:\\repos\\Week1\\Week1\\Migrations\\20240812160606_Todo.cs",
-              "RelativeToolTip": "Week1\\Migrations\\20240812160606_Todo.cs",
+              "RelativeToolTip": "..\\..\\repos\\Week1\\Week1\\Migrations\\20240812160606_Todo.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T16:06:06.474Z"
             },
@@ -332,9 +351,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "20240812165948_Todo.cs",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Migrations\\20240812165948_Todo.cs",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Migrations\\20240812165948_Todo.cs",
               "RelativeDocumentMoniker": "Week1\\Migrations\\20240812165948_Todo.cs",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Migrations\\20240812165948_Todo.cs",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Migrations\\20240812165948_Todo.cs",
               "RelativeToolTip": "Week1\\Migrations\\20240812165948_Todo.cs",
               "ViewState": "AQIAAHsAAAAAAAAAAIBZwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -342,23 +361,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\appsettings.json",
-              "RelativeDocumentMoniker": "Week1\\appsettings.json",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\appsettings.json",
-              "RelativeToolTip": "Week1\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-08T14:35:46.422Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Views\\Account\\Register.cshtml",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Week1\\Views\\Account\\Register.cshtml",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "Week1\\Views\\Account\\Register.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAnwCEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -368,9 +375,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "ToDoItemVM.cs",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\ViewModel\\ToDoItemVM.cs",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\ViewModel\\ToDoItemVM.cs",
               "RelativeDocumentMoniker": "Week1\\ViewModel\\ToDoItemVM.cs",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\ViewModel\\ToDoItemVM.cs",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\ViewModel\\ToDoItemVM.cs",
               "RelativeToolTip": "Week1\\ViewModel\\ToDoItemVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -380,9 +387,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "RegisterVM.cs",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\ViewModel\\RegisterVM.cs",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\ViewModel\\RegisterVM.cs",
               "RelativeDocumentMoniker": "Week1\\ViewModel\\RegisterVM.cs",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\ViewModel\\RegisterVM.cs",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\ViewModel\\RegisterVM.cs",
               "RelativeToolTip": "Week1\\ViewModel\\RegisterVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -392,9 +399,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Week1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "Week1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -404,9 +411,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "LoginVM.cs",
-              "DocumentMoniker": "D:\\repos\\Week1\\Week1\\ViewModel\\LoginVM.cs",
+              "DocumentMoniker": "D:\\CW1\\Week1\\Week1\\ViewModel\\LoginVM.cs",
               "RelativeDocumentMoniker": "Week1\\ViewModel\\LoginVM.cs",
-              "ToolTip": "D:\\repos\\Week1\\Week1\\ViewModel\\LoginVM.cs",
+              "ToolTip": "D:\\CW1\\Week1\\Week1\\ViewModel\\LoginVM.cs",
               "RelativeToolTip": "Week1\\ViewModel\\LoginVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
